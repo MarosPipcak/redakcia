@@ -1,3 +1,8 @@
 Autor: Maroš Pipčak
 Nazov: Distancna vyucba
 Datum: 12.5.2021
+----
+Ucime sa z domu
+Je to fajn
+Je to sranda
+----
